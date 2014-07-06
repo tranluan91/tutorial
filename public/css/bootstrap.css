@@ -6215,7 +6215,7 @@ button.close {
   background-repeat: no-repeat;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff02a5de', endColorstr='#ff028fc0', GradientType=0);
   filter: none;
-  border: 1px solid #02749c;
+  /*border: 1px solid #02749c;*/
 }
 .btn-warning,
 .btn-warning:hover {
